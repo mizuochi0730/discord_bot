@@ -34,6 +34,7 @@ namespace _koh
 
             }
         }
+        //test
         //static async Task Cilent_MessageReceived(SocketMessage arg)
         //{
         //    if (arg.Content == "今日の運勢は？")
